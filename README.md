@@ -3,4 +3,6 @@ Bem vindo ao meu jogo, O trajeto dos alimetos, desenvolvido para o Agrinho 2025
 Autor: João Gabriel Muller Zawadzki
 Orientador: Profº Eduardo Carvalho Viotto
 Linguagem: JavaScript
-Sobre o jogo: Foi criado com o intuito educacional sobre os diferentes processos de colheita, produção até a parte de da fabricção. A principio o jogo utiliza somente o mouse através de cliques, porém você pode movimentar o personagem com W, A, S, D, cada fase tem suas curiosidades que podem ser acessadas atravé de um icone de livros.
+Este jogo foi desenvolvido com o objetivo educacional de apresentar os diferentes processos, desde a colheita e produção até a fabricação.
+Inicialmente, o controle é feito apenas com o mouse (cliques). No entanto, você também pode movimentar o personagem usando as teclas W, A, S, D.
+Cada fase contém curiosidades que podem ser acessadas por meio de um ícone de livro.
